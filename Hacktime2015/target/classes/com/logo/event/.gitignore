@@ -1,0 +1,11 @@
+/DashboardEvent$BrowserResizeEvent.class
+/DashboardEvent$CloseOpenWindowsEvent.class
+/DashboardEvent$NotificationsCountUpdatedEvent.class
+/DashboardEvent$PostViewChangeEvent.class
+/DashboardEvent$ProfileUpdatedEvent.class
+/DashboardEvent$ReportsCountUpdatedEvent.class
+/DashboardEvent$TransactionReportEvent.class
+/DashboardEvent$UserLoggedOutEvent.class
+/DashboardEvent$UserLoginRequestedEvent.class
+/DashboardEvent.class
+/DashboardEventBus.class
