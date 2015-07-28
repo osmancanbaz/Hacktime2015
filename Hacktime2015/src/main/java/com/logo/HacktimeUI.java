@@ -42,7 +42,7 @@ public class HacktimeUI extends UI
 	{
 		UI.getCurrent();
 	}
-
+//sad
 	@Override
 	protected void init(VaadinRequest request)
 	{
